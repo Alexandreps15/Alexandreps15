@@ -2,7 +2,7 @@
   <img width="550" height="50" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&center=true&vCenter=true&width=520&lines=Welcome+To+My+Github+Profile+%F0%9F%91%8B"> 
 </p>
 
-## Bem-vindo(a) ao perfil do Alexandreps15 😁
+##                                                                          Alexandreps15 😁
 
  <div>
    <a href="https://github.com/Alexandreps15">
