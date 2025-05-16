@@ -59,7 +59,7 @@ Projeto simples para gerar QR Codes a partir de textos ou URLs inseridos pelo us
 
 ## 📫 Como me encontrar
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/alexandre-paix%C3%A3o-santos-42169178/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-paixão-santos-42169178/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandreps15)
 
 ---
