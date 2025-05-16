@@ -1,31 +1,69 @@
-<p align="center">
-  <img width="550" height="50" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&center=true&vCenter=true&width=520&lines=Welcome+To+My+Github+Profile+%F0%9F%91%8B"> 
+# 👋 Olá, eu sou o Alexandre Paixão!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alexandreps15&color=blue)
+
+---
+
+## 🚀 Sobre mim
+
+Estou em transição de carreira para me tornar um Desenvolvedor Front-End. Atualmente, foco em aprender HTML, CSS e JavaScript, construindo uma base sólida para criar interfaces modernas e funcionais. Minha jornada começou com um curso de informática que me proporcionou familiaridade com tecnologia, e agora busco evoluir rapidamente na programação.
+
+Sou dedicado, curioso e apaixonado por aprender novas tecnologias para criar soluções reais e acessíveis.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📚 O que estou estudando
+
+- Fundamentos do Front-End (HTML, CSS, JavaScript)  
+- Manipulação do DOM e eventos em JavaScript  
+- Layouts responsivos e acessibilidade web  
+- Controle de versão com Git e GitHub  
+- Boas práticas e organização de código
+
+---
+
+## 📂 Projetos em destaque
+
+### 🔳 Gerador de QR Code  
+Projeto simples para gerar QR Codes a partir de textos ou URLs inseridos pelo usuário.  
+[Repositório no GitHub](https://github.com/Alexandreps15/gerador-qr-code)
+
+---
+
+## 🎯 Meus objetivos
+
+- Consolidar conhecimentos em desenvolvimento front-end  
+- Construir projetos práticos e úteis  
+- Aprender frameworks modernos como React  
+- Conseguir minha primeira oportunidade profissional na área
+
+---
+
+## 🎓 Cursos e Formação
+
+- Curso de Desenvolvimento Front-End — DevQuest (em andamento)  
+- Curso de Informática — [Mil Cursos]
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/alexandre-paix%C3%A3o-santos-42169178/))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandreps15)
+
+---
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandreps15&show_icons=true&theme=radical" alt="Alexandre's GitHub Stats" />  
 </p>
-
-# Prazer eu me chamo Alexandre Paixão! 😁
-
- <div>
-   <a href="https://github.com/Alexandreps15">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandreps15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandreps15&layout=compact&langs_count=6&theme=tokyonight"/>
-</div><br><br>
-     
-## Languages!!
-     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/@alex33261" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/a.paixaosantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alexandre_Zuga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-paixão-42169178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
